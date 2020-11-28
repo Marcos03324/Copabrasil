@@ -1,0 +1,36 @@
+{
+    "Libertadores": [
+        {
+            "id": 1,
+            "Time": "São Paulo",
+            "Pontos": 83
+        },
+        {
+            "id": 3,
+            "Time": "Santos",
+            "Pontos": 86
+        }
+    ],
+    "Copa": [
+    {
+        "id": 1,
+        "Time": "São Paulo",
+        "imagem": "SãoPaulo.jpeg"
+     },
+     {
+        "id": 2,
+        "Time": "Palmeiras",
+        "imagem": "Palmeiras.jpeg"
+     },
+     {
+        "id": 3,
+        "Time": "Santos",
+        "imagem": "Santos.jpeg"
+     },
+     {
+        "id": 4,
+        "Time": "Corinthians",
+        "imagem": "Corinthians.jpeg"
+     }
+   ]
+ }
