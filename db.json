@@ -1,36 +1,38 @@
 {
-    "Libertadores": [
-        {
-            "id": 1,
-            "Time": "São Paulo",
-            "Pontos": 83
-        },
-        {
-            "id": 3,
-            "Time": "Santos",
-            "Pontos": 86
-        }
-    ],
-    "Copa": [
-    {
+    "users":[
+      {
         "id": 1,
-        "Time": "São Paulo",
-        "imagem": "SãoPaulo.jpeg"
-     },
-     {
+        "name": "Danilo Filitto",
+        "email": "danilo.filitto@gmail.com",
+        "xp": 0,
+        "highscore":0
+      }
+    ],
+  
+    "words":[
+      {
+        "id": 1,
+        "world": "Two",
+        "translation": "Dois",
+        "categories": "Numbers" 
+      }
+    ],
+  
+    "categories": [
+      {
+        "id": 1,
+        "name": "Families",
+        "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+      },
+      {
         "id": 2,
-        "Time": "Palmeiras",
-        "imagem": "Palmeiras.jpeg"
-     },
-     {
-        "id": 3,
-        "Time": "Santos",
-        "imagem": "Santos.jpeg"
-     },
-     {
-        "id": 4,
-        "Time": "Corinthians",
-        "imagem": "Corinthians.jpeg"
-     }
-   ]
- }
+        "name": "Numbers",
+        "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+      },
+      {
+        "name": "colors",
+        "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
+        "id": 3
+      }
+    ]
+  }
